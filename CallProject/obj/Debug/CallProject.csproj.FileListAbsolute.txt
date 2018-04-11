@@ -1,0 +1,16 @@
+C:\Git\PhoneCaller\CallProject\bin\Debug\CallProject.exe.config
+C:\Git\PhoneCaller\CallProject\bin\Debug\CallProject.exe
+C:\Git\PhoneCaller\CallProject\bin\Debug\CallProject.pdb
+C:\Git\PhoneCaller\CallProject\bin\Debug\Microsoft.IdentityModel.Logging.dll
+C:\Git\PhoneCaller\CallProject\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+C:\Git\PhoneCaller\CallProject\bin\Debug\Newtonsoft.Json.dll
+C:\Git\PhoneCaller\CallProject\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+C:\Git\PhoneCaller\CallProject\bin\Debug\Twilio.dll
+C:\Git\PhoneCaller\CallProject\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+C:\Git\PhoneCaller\CallProject\bin\Debug\Newtonsoft.Json.xml
+C:\Git\PhoneCaller\CallProject\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+C:\Git\PhoneCaller\CallProject\bin\Debug\Twilio.xml
+C:\Git\PhoneCaller\CallProject\obj\Debug\CallProject.csprojResolveAssemblyReference.cache
+C:\Git\PhoneCaller\CallProject\obj\Debug\CallProject.csproj.CoreCompileInputs.cache
+C:\Git\PhoneCaller\CallProject\obj\Debug\CallProject.exe
+C:\Git\PhoneCaller\CallProject\obj\Debug\CallProject.pdb

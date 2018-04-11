@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Response>
+	<Say voice="man">Hallo Jenny, ich soll dir von Daniel sagen, dass er dich liebt!</Say>
+	<Record maxLength="20" />
+</Response>
